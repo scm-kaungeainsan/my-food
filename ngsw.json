@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1652263467134,
+  "timestamp": 1652265342137,
   "index": "https://github.com/scm-kaungeainsan.github.io/my-food/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "https://github.com/scm-kaungeainsan.github.io/my-food/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://github.com/scm-kaungeainsan.github.io/my-food/index.html": "8c21f151ae2c110bfa31cbbbaa008e14e64baffc",
     "https://github.com/scm-kaungeainsan.github.io/my-food/main.ce6c383339473199.js": "710c7fc2779195bb726d34baf7dab6fd35079be6",
-    "https://github.com/scm-kaungeainsan.github.io/my-food/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "https://github.com/scm-kaungeainsan.github.io/my-food/manifest.webmanifest": "6ea14ac607a3854d7bdb5cad69ceeadf7189710e",
     "https://github.com/scm-kaungeainsan.github.io/my-food/polyfills.10998e05b3da6d14.js": "715c2719230f34b92ddfe504f893f6cd9bbc68c6",
     "https://github.com/scm-kaungeainsan.github.io/my-food/runtime.64a4c478f89723db.js": "49fa9038357f3db0130e1219265c8b5582c37349",
     "https://github.com/scm-kaungeainsan.github.io/my-food/styles.5895b5308b814632.css": "34f93f00a5a63fc78b8c81977e00057ff54c71c9"
