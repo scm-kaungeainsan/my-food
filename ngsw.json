@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1652266309006,
+  "timestamp": 1652267044827,
   "index": "https://github.com/scm-kaungeainsan.github.io/my-food/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://github.com/scm-kaungeainsan.github.io/my-food/favicon.ico",
         "https://github.com/scm-kaungeainsan.github.io/my-food/index.html",
-        "https://github.com/scm-kaungeainsan.github.io/my-food/main.ce6c383339473199.js",
+        "https://github.com/scm-kaungeainsan.github.io/my-food/main.aceea2ff9ddd5b3b.js",
         "https://github.com/scm-kaungeainsan.github.io/my-food/manifest.webmanifest",
         "https://github.com/scm-kaungeainsan.github.io/my-food/polyfills.10998e05b3da6d14.js",
         "https://github.com/scm-kaungeainsan.github.io/my-food/runtime.64a4c478f89723db.js",
@@ -52,8 +52,8 @@
     "https://github.com/scm-kaungeainsan.github.io/my-food/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://github.com/scm-kaungeainsan.github.io/my-food/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://github.com/scm-kaungeainsan.github.io/my-food/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/scm-kaungeainsan.github.io/my-food/index.html": "3faf7e7fe03f0cf9a1a6fc54b443f9d82e091b43",
-    "https://github.com/scm-kaungeainsan.github.io/my-food/main.ce6c383339473199.js": "710c7fc2779195bb726d34baf7dab6fd35079be6",
+    "https://github.com/scm-kaungeainsan.github.io/my-food/index.html": "051b10f5ca9cb249b67afb9cf4965e81250651d1",
+    "https://github.com/scm-kaungeainsan.github.io/my-food/main.aceea2ff9ddd5b3b.js": "3f7d19e89f81c8347c6bca23c4673a2af7aa7086",
     "https://github.com/scm-kaungeainsan.github.io/my-food/manifest.webmanifest": "6ea14ac607a3854d7bdb5cad69ceeadf7189710e",
     "https://github.com/scm-kaungeainsan.github.io/my-food/polyfills.10998e05b3da6d14.js": "715c2719230f34b92ddfe504f893f6cd9bbc68c6",
     "https://github.com/scm-kaungeainsan.github.io/my-food/runtime.64a4c478f89723db.js": "49fa9038357f3db0130e1219265c8b5582c37349",
